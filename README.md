@@ -1,9 +1,16 @@
-Managing 1C user configuration on the terminal.
-![2024-12-10 19_16_41-Settings](https://github.com/user-attachments/assets/d6de05a6-1869-47b8-8a99-86dec748f289)
+Managing 1C user configuration in domain.
 
-It is designed as a file manager, allowing you to transfer the configuration from one user to another.
+Программа позволяет удалённо добавлять и удалять базы пользователям домена. Добавлять можно сразу несколько (выделить с зажатым Shift) и удалять базы у пользователя также можно сразу несколько.
+Запускать программу нужно с компьютера в домене с правами администратора. (Возможно и локальное использование без домена в рамках одного компьютера на котором запущена программа)
 
-Supports transfer in both directions
-Supports multiple selection
-Supports deletion of selected databases
-Supports fast backup of the configuration
+По умолчанию программа берёт список баз из ibases.i8v локального пользователя (Из вашего списка баз которые вы видите в клиенте 1С). Добавляя базы себе в 1С, можно пополнить список доступных баз в программе.
+Также есть возможность выбрать отдельный файл с базами, например templates.iv8, где будут написаны все ваши базы.
+
+Порядок работы простой:
+1) Откройте список компьютеров домена и выберите один из них
+2) Нажмите подключиться
+3) Выберите пользователя компьютера которому нужно добавить базы
+4) Выберите из списка слева необходимые базы и нажмите стрелку вправо (Кнопка посередине)
+5) Готово
+<img width="1033" height="768" alt="DemoScreen" src="https://github.com/user-attachments/assets/baa2b4ec-508f-45bd-8cdb-ad71ebe678a8" />
+
