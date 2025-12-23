@@ -1,0 +1,17 @@
+[УТ 11.5]
+Connect=Srvr="Server1C";Ref="Base_Ut";
+Folder=/
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+DisableLocalSpeechToText=0
+
+[Зарплата и управление]
+Connect=Srvr="Server1C";Ref="Base_ZUP";
+Folder=/
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+DisableLocalSpeechToText=0

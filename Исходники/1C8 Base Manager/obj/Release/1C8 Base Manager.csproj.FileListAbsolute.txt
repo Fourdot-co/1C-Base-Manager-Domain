@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\bin\Release\1C8 Base Manager.exe
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\bin\Release\1C8 Base Manager.exe.config
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\bin\Release\1C8 Base Manager.pdb
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\bin\Release\mscorlib.dll
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\bin\Release\ru\mscorlib.resources.dll
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\bin\Release\normidna.nlp
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\bin\Release\normnfc.nlp
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\bin\Release\normnfd.nlp
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\bin\Release\normnfkc.nlp
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\bin\Release\normnfkd.nlp
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\obj\Release\1C8 Base Manager.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\obj\Release\_1C8_Base_Manager.Form1.resources
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\obj\Release\_1C8_Base_Manager.Properties.Resources.resources
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\obj\Release\1C8 Base Manager.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\obj\Release\1C8 Base Manager.exe
+C:\Users\admin\Desktop\Tryasunov\1C8 Base Manager\obj\Release\1C8 Base Manager.pdb
